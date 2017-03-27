@@ -2,7 +2,7 @@
  * Created by nmw on 2017/3/23.
  */
 import React, {PropTypes} from 'react'
-import VisibleTodo from '../containers/VisibleTodo'
+import VisibleTodo from '../containers/V'
 
 
 const TodoList =({todos, onClick}) => (
